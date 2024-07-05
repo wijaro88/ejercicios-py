@@ -27,3 +27,4 @@ async def read_item(item_id:int, q: Union[str, None]= None):
 
 # Documentación con Swagger: http://127.0.0.1:8000/docs
 # Documentación con Redocly: http://127.0.0.1:8000/redoc
+
